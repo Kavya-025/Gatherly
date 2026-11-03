@@ -23,9 +23,12 @@ Open `index.html` in a browser, or serve the folder with any static web server. 
 - `styles.css` — design system, responsive layouts, and motion
 - `script.js` — event data, filtering, details, form validation, and local persistence
 
-## Publish
+## Project links
 
-The site is static and can be deployed directly with GitHub Pages, Netlify, or Vercel. Push this folder to a GitHub repository, then select it as the deployment source in your chosen hosting provider. Add your repository and live deployment URLs here after publishing.
+- Live website: [https://kavya-025.github.io/Gatherly/](https://kavya-025.github.io/Gatherly/)
+- GitHub repository: [https://github.com/Kavya-025/Gatherly](https://github.com/Kavya-025/Gatherly)
+
+The website is published with GitHub Pages from the `main` branch at the repository root. Pushing updates to `main` automatically republishes the site.
 
 ## Notes
 
